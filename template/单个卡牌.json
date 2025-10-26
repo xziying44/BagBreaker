@@ -1,0 +1,27 @@
+{
+  "CardID": 2901,
+  "CustomDeck": {
+    "29": {
+      "BackIsHidden": false,
+      "BackURL": "",
+      "FaceURL": "",
+      "NumHeight": 7,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "",
+  "GUID": "8ae6f4",
+  "HideWhenFaceDown": false,
+  "SidewaysCard": false,
+  "Name": "Card",
+  "Nickname": "",
+  "Transform": {
+    "rotY": 180,
+    "rotZ": 180,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}
